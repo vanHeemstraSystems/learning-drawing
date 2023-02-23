@@ -1,3 +1,5 @@
+[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-computing/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-computing/actions/workflows/publish.yml)
+
 learning-computing
 # Learning Computing
 
