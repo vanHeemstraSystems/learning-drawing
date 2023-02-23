@@ -5,7 +5,7 @@ Based on "Learning" at https://github.com/vanHeemstraSystems/learning
 
 Based on "Github Basic Kanban" at https://github.com/vanHeemstraSystems/github-basic-kanban
 
-Can be read as "Learning - Computing" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/VaiLNtxZulQ69lKSHsMr/
+Can be read as "Learning - Computing" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/rj8myMko4HNX3RA2WxvW/
 
 Can be browsed as "Learning - Computing" at https://vanheemstrasystems.github.io/learning-computing/
 
