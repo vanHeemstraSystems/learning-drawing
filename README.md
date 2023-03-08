@@ -7,7 +7,7 @@ Based on "Learning" at https://github.com/vanHeemstraSystems/learning
 
 Based on "Github Basic Kanban" at https://github.com/vanHeemstraSystems/github-basic-kanban
 
-Can be read as "Learning - Drawing" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/rj8myMko4HNX3RA2WxvW/
+Can be read as "Learning - Drawing" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/ggdvjwyyXLQzPVVkbtdB/
 
 Can be browsed as "Learning - Drawing" at https://vanheemstrasystems.github.io/learning-drawing/
 
