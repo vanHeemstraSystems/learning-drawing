@@ -4,4 +4,4 @@ title: "Themes"
 
 About Themes
 
-See <https://vanheemstrasystems.github.io/learning-computing-themes/>
+See <https://vanheemstrasystems.github.io/learning-drawing-themes/>
