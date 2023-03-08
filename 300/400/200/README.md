@@ -4,4 +4,4 @@ Limit the size of what you want to learn. "Physics" or "philosophy" is too wide 
 
 We'll go for "Caricature Drawing".
 
-See on Project Board: "Step 2: Determine Scope" at https://github.com/orgs/vanHeemstraSystems/projects/3/views/1?pane=issue&itemId=21233139
+See on Project Board: "Step 2: Determine Scope" at https://github.com/orgs/vanHeemstraSystems/projects/8/views/1?layout=board&pane=issue&itemId=22379966
