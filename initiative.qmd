@@ -4,4 +4,4 @@ title: "Initiative"
 
 About Initiative
 
-See <https://vanheemstrasystems.github.io/learning-computing-initiative/>
+See <https://vanheemstrasystems.github.io/learning-drawing-initiative/>
