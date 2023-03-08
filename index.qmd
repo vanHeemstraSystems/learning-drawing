@@ -1,5 +1,5 @@
 ---
-title: "Learning - Computing"
+title: "Learning - Drawing"
 ---
 
 This is a Quarto website.
