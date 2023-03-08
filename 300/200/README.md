@@ -1,3 +1,3 @@
 # 200 - Use Case(s) Diagram
 
-![image](https://user-images.githubusercontent.com/1499433/220879679-fb2eec8c-5ad0-494c-bd43-32b141d3e1e4.png)
+![Learning-Drawing_Use-Cases](https://user-images.githubusercontent.com/1499433/223730863-c8f1afa4-64cc-4423-b261-2d97fe90acda.png)
