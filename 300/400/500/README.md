@@ -2,4 +2,4 @@
 
 Use what you learned in the previous steps to make a plan.
 
-See on Project Board: "Step 5: Create a Learning Plan" at https://github.com/orgs/vanHeemstraSystems/projects/3/views/1?pane=issue&itemId=21233189
+See on Project Board: "Step 5: Create a Learning Plan" at https://github.com/orgs/vanHeemstraSystems/projects/8/views/1?layout=board&pane=issue&itemId=22380188
