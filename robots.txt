@@ -1,1 +1,1 @@
-Sitemap: https://github.com/vanHeemstraSystems/learning-drawing/sitemap.xml
+Sitemap: https://vanHeemstraSystems.github.io/learning-drawing/sitemap.xml
